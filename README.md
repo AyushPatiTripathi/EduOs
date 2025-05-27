@@ -28,11 +28,6 @@ EduOS/<br>
 ├── README.md # You're reading it!<br>
 
 
-
-## 👥 Contributors
-- Ayush Pati Tripathi
-- Your Teammate's Name
-
 ## 📚 Learning Outcomes
 - Operating Systems (Process, Memory, File System)
 - Python OOP and simulation
