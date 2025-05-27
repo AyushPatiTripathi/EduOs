@@ -16,16 +16,16 @@ EduOS is a visual & interactive simulator of how an Operating System works — b
 - Standard Python libraries (for logic)
 
 ## 📁 Project Structure
-EduOS/
-├── scheduler/ # CPU scheduling algorithms
-├── memory/ # RAM simulation logic
-├── filesystem/ # Fake files, folders
-├── terminal/ # Shell parser & commands
-├── ui/ # PyQt5 components
-├── assets/ # Icons/images
-├── docs/ # System diagrams and writeups
-├── main.py # App launcher
-├── README.md # You're reading it!
+EduOS/<br>
+├── scheduler/ # CPU scheduling algorithms<br>
+├── memory/ # RAM simulation logic<br>
+├── filesystem/ # Fake files, folders<br>
+├── terminal/ # Shell parser & commands<br>
+├── ui/ # PyQt5 components<br>
+├── assets/ # Icons/images<br>
+├── docs/ # System diagrams and writeups<br>
+├── main.py # App launcher<br>
+├── README.md # You're reading it!<br>
 
 
 
